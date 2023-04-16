@@ -9,8 +9,11 @@ Your score is counted. The game is made with lovely pixel art of fox and stairs.
 == controls ==
 
 Backspace - jump
+
 Left arrow - move to left
+
 Right arrow - move to right 
+
 
 == inspiration ==
 
