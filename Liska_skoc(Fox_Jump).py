@@ -189,6 +189,3 @@ def generate_first_schody():
 schody = generate_first_schody()
 
 pgzrun.go()
-
-# na ukazovatele medzier
-# "draw_white_space": "all" a ešte čiarka predtým
