@@ -14,6 +14,9 @@ Left arrow - move to left
 
 Right arrow - move to right 
 
+== code == 
+
+In the code the comments and some of the variables are in Slovak.
 
 == inspiration ==
 
